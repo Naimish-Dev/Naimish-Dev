@@ -9,7 +9,7 @@ I am an experienced full-stack web developer with more than two years of experti
 - 🤝 I love collaborating on freelance projects and helping startups build their MVPs or improve their digital presence.
 - 💬 Ask me about anything related to JavaScript, React, Next.js, Node.js, and Express.
 - 📫 How to reach me: naimishbhesaniya212@gmail.com
-- 📝 [LinkedIn](https://www.linkedin.com/in/naimish-bhesaniya)
+- 📝 [LinkedIn](https://www.linkedin.com/in/naimish-bhesaniya-019114219/)
 
 ## 🛠️ Skills & Abilities
 
