@@ -1,6 +1,6 @@
 # Hi there, I'm Naimish Bhesaniya 👋
 
-I am an experienced full-stack web developer with more than two years of expertise, primarily focused on JavaScript-based technologies such as React.js, Next.js, Remix, and Node.js. I specialize in building dynamic, efficient web applications and possess a strong foundation in both front-end and back-end development. I am passionate about developing innovative web solutions in a dynamic, growth-oriented environment.
+I am an experienced full-stack web developer with more than three years of expertise, primarily focused on JavaScript-based technologies such as React.js, Next.js, Remix, and Node.js. I specialize in building dynamic, efficient web applications and possess a strong foundation in both front-end and back-end development. I am passionate about developing innovative web solutions in a dynamic, growth-oriented environment.
 
 ## 👨‍💻 About Me
 
